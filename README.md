@@ -1,5 +1,5 @@
 # JAVA
-#data structure in java
+# data structure in java
  linked list 
  stack
  queue
